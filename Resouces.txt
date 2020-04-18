@@ -1,0 +1,5 @@
+- https://code.visualstudio.com/docs/python/python-tutorial
+- https://www.hackster.io/peter-lunk/how-to-use-the-android-ip-webcam-app-with-python-opencv-45f28f
+- https://www.simplicity.be/article/recognizing-dices/
+- http://wollen.org/misc/dice_opencv.html
+- https://www.reddit.com/r/raspberry_pi/comments/28j5v2/counting_dice_with_opencv/
